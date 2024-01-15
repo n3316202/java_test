@@ -1,7 +1,7 @@
 class BuildString {
     public static void main(String[] args) {
     	//adfsdafasd
-        StringBuilder stbuf = new StringBuilder("123"); /sdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgdgdgsdfg
+        StringBuilder stbuf = new StringBuilder("123"); /ㅗㅎ로로롤로롤로로로로sdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgdgdgsdfg
         
         System.out.println("¾È³çÇÏ¼¼¿ä");
         System.out.println("¾È³çÇÏ¼¼¿ä");

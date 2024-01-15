@@ -2,7 +2,9 @@ class BuildString {
     public static void main(String[] args) {
     	//adfsdafasd
         StringBuilder stbuf = new StringBuilder("123");
-
+        
+        System.out.println("æ»≥Á«œººø‰");
+        
         stbuf.append(45678);
         System.out.println(stbuf.toString());
         

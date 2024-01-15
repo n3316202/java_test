@@ -1,10 +1,10 @@
 class BuildString {
     public static void main(String[] args) {
     	//adfsdafasd
-        StringBuilder stbuf = new StringBuilder("123");
+        StringBuilder stbuf = new StringBuilder("123"); /sdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgdgdgsdfg
         
-        System.out.println("�ȳ��ϼ���");
-        System.out.println("�ȳ��ϼ���");
+        System.out.println("¾È³çÇÏ¼¼¿ä");
+        System.out.println("¾È³çÇÏ¼¼¿ä");
         
         stbuf.append(45678);
         System.out.println(stbuf.toString());
